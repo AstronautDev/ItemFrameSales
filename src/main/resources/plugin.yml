@@ -1,0 +1,7 @@
+name: ItemFrameSales
+main: com.astronaut.itemframesales.ItemFrameSales
+version: 1.0.0
+description: Item Frame Shop Plugin
+author: Astronaut
+
+commands:
